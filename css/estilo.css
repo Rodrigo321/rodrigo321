@@ -1,12 +1,12 @@
 body
 {
-	background:url(imagenes/fondo2.jpg);
+	background:url(../imagenes/fondo3.jpg);
 	margin:0 auto,300px;
 		
 }
 {
-	background-color:#fff6f1;
-		font-family:"Helvetica",Arial;
+	background-color:#e44e2d;
+	font-family:"Helvetica",Arial;
 }
 #contenido
 {
@@ -23,14 +23,14 @@ nav ul a
 {
 	display:inline-block;
 	margin-right:60px;
-	color:green;
+	color:blue;
 	cursor: pointer;
 }
 #textoPr
 {
 	width:600px;
 	height:300px;
-	background-color:#1d1d1d;
+	background-color:black;
 	color:#fff;
 	margin:0 auto;
 	text-align:left;	
@@ -42,5 +42,14 @@ a
 {
 color:#e44e2d;
 font-weight:bold;
-
+}
+li
+{
+	color:white;
+	background-color:#e44e2d;
+	width:400;
+	font-weight:bold;
+	margin:0 auto;
+	border-radius:20px;
+	 
 }
